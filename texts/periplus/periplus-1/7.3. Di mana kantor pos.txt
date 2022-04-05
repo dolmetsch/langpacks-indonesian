@@ -1,0 +1,10 @@
+Di mana kantor pos?
+
+Dulah: "Maaf, Pak, bolehkah saya bertanya?"
+Polisi: "ya, tentu boleh."
+Dulah: "Di mana kantor pos? Apa jauh dari sini?"
+Polisi: "Tidak, tidak jauh. Kantor pos dekat gedung bioskop."
+Dulah: "Di sebelah kanan atau di sebelah kiri?"
+Polisi: "Di sebelah kiri. Di sebelah kanan gedung bioskop itu setasiun. Saudara orang baru di sini?"
+Dulah: "Ya, saya baru datang dari Sulawesi. Terima kasih, Pak. Sekarang saya sudah tahu."
+Polisi: "Terima kasih kembali."

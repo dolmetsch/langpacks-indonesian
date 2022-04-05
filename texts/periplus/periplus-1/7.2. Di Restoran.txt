@@ -1,0 +1,18 @@
+Di Restoran
+
+Nyonya dan Tuan Harun lapar ketika keluar dari bioskop, lalu pergi ke restoran.
+Pelayan: "Selamat malam, Tuan, Nyonya."
+Nyonya & Tuan H: "Selamt malam."
+Pelayan: "Tuan dan Nyonya mau makan apa? Ada soto, sate dan bakmi goreng."
+Nyonya Harun: "Saya mau bakmi goreng."
+Tuan Harun: "Saya mau sate."
+Pelayan: "Sate ayam, sate kambing, atau sate daging, Tuan?"
+Tuan Harun: "Saya mau sate ayam."
+Pelayan: "Sepiring bakmi goreng dan sepiring sate ayam. Tuan dan Nyonya mau minum apa?"
+Nyonya Harun: "Saya mau teh."
+Tuan Harun: "Saya mau kopi."
+Pelayan: "Apa Nyonya mau makan bakmi dengan sumpit?"
+Nyonya Harun: "Tidak, dengan sendok dan garpu."
+Tidak lama kemudian pelayan masuk dengan sate, bakmi, secangkir teh dan secangkir kopi.
+Tuan Harun: "Mmmmm... memang enak satenya! Apa bakmimu panas?"
+Nyonya Harun: "Ya, panas. Tetapi kurang pedas. Saya mau cabe."

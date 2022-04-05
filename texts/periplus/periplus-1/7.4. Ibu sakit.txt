@@ -1,0 +1,13 @@
+Ibu sakit
+
+Ana bertemu dengan Bambang di jalan.
+Bambang: "Dari mana Ana?"
+Ana: "Dari apotek."
+Bambang: "Siapa yang sakit?"
+Ana: "Ibu saya."
+Bambang: "Sakit apa ibumu?"
+Ana: "Sakit kerongkongan. Badannya panas. Beliau tidak mau makan."
+Bambang: "Kasihan! Apa beliau mau minum air jeruk?"
+Ana: "Ya, mau. Beliau banyak minum air jeruk dan air teh."
+Bambang: "Permisi dulu, Ana. Sampai bertemu lagi. Mudah-mudahan ibumu lekas sembuh."
+Ana: "Ya, mudah-mudahanlah."
